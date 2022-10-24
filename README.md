@@ -12,6 +12,7 @@ This implementation transforms a sequence of amino acid into sequences of standa
 
 ## To run the code 
 - Change directory to the code path by command:
+
   cd /path/to
 
 - Run the code by command:

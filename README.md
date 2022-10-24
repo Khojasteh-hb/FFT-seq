@@ -18,7 +18,11 @@ This implementation transforms a sequence of amino acid into sequences of standa
 
   cat hemoglobin.fasta.txt | python3 FFT_sequence.py
 
-![Figure_3](https://user-images.githubusercontent.com/72028345/197471630-135128a8-74bc-4087-87dd-21a8760ca317.png)
+![Figure_1](https://user-images.githubusercontent.com/72028345/197471753-4bb065cd-8035-45a1-8ab4-885e9dff14ae.png)
+
+![Figure_2](https://user-images.githubusercontent.com/72028345/197471766-57d98a77-d7a6-4c97-b859-a44c46ac04fa.png)
+
+![Figure_3](https://user-images.githubusercontent.com/72028345/197471793-412fbb6f-261d-4f32-b0a3-9249233a3430.png)
 
 
 # Contact

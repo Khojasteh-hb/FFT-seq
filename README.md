@@ -9,7 +9,7 @@ This implementation transforms a sequence of amino acid into sequences of standa
 The amino acid hydrophobicity values are collected from: https://www.sigmaaldrich.com/FR/fr/technical-documents/technical-article/protein-biology/protein-structural-analysis/amino-acid-reference-chart
 
 ## Environment Settings
-- ubuntu 18.04
+- Ubuntu 18.04
 - Python version:  '3.9'
 - You have to install the required libraries (numpy, scipy, matplotlib) 
 

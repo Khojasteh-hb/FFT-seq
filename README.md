@@ -14,7 +14,7 @@ The amino acid hydrophobicity values are collected from: https://www.sigmaaldric
 - You have to install the required libraries (numpy, scipy, matplotlib) 
 
 ## Tip:
-There was a problem with the installation of the library 'matplotlib'. I solved the problem with the commands below:
+There was a problem with the installation of the library matplotlib in ubuntu 18.04. I solved the problem with the commands below:
 
 - apt-get install libjpeg-dev zlib1g-dev
 

@@ -41,5 +41,5 @@ And finally, I installed the library 'matplotlib'
 
 
 # Contact
-If you have any questions, do not hesitate to contact me by `khojasteh@znu.ac.ir` or `khojasteh.hb@gmail.com`, I will be happy to assist.
+If you have any questions, do not hesitate to contact me at `khojasteh.hb@gmail.com`, I will be happy to assist.
 

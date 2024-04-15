@@ -40,6 +40,3 @@ And finally, I installed the library 'matplotlib'
 ![Figure_3](https://user-images.githubusercontent.com/72028345/197471793-412fbb6f-261d-4f32-b0a3-9249233a3430.png)
 
 
-# Contact
-If you have any questions, do not hesitate to contact me at `khojasteh.hb@gmail.com`, I will be happy to assist.
-
